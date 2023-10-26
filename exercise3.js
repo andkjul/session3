@@ -52,4 +52,4 @@ console.log(resultkm)
 // Write a code to format number as currency (IDR)
 // ○ Example : 1000 → “Rp. 1.000,00”
 let curnumber = 5
-let currency = 'Rp. '
+
